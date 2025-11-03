@@ -1,7 +1,7 @@
 {
   "name": "AegisDrive Premium Key",
   "description": "Chiave NFT di accesso al piano Premium di AegisDrive.",
-  "image": "https://ago993.github.io/aegisdrive-nft-static/images/premium_2.png",
+  "image": "https://<URL_CDN>/images/premium_2.png",
   "attributes": [
     { "trait_type": "Piano", "value": "Premium" },
     { "trait_type": "Spazio", "value": "500 GB" },
