@@ -1,7 +1,7 @@
 {
   "name": "AegisDrive Base Key",
   "description": "Chiave NFT di accesso al piano Base di AegisDrive.",
-  "image": "https://<URL_CDN>/images/base.png",
+  "image": "https://<URL_CDN>/images/base_1.png",
   "attributes": [
     { "trait_type": "Piano", "value": "Base" },
     { "trait_type": "Spazio", "value": "50 GB" },
