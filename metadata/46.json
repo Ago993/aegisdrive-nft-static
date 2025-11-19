@@ -1,0 +1,20 @@
+{
+  "name": "AegisDrive Premium Key #46",
+  "description": "Chiave NFT di accesso al piano Premium di AegisDrive.",
+  "image": "https://ago993.github.io/aegisdrive-nft-static/images/premium_2.png",
+  "external_url": "https://aegisdrive.app",
+  "attributes": [
+    {
+      "trait_type": "Piano",
+      "value": "Premium"
+    },
+    {
+      "trait_type": "Spazio",
+      "value": "500 GB"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Polygon Amoy"
+    }
+  ]
+}
