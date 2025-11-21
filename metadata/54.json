@@ -1,0 +1,20 @@
+{
+  "name": "AegisDrive Pro Key #54",
+  "description": "Chiave NFT di accesso al piano Pro di AegisDrive.",
+  "image": "https://ago993.github.io/aegisdrive-nft-static/images/pro_3.png",
+  "external_url": "https://aegisdrive.app",
+  "attributes": [
+    {
+      "trait_type": "Piano",
+      "value": "Pro"
+    },
+    {
+      "trait_type": "Spazio",
+      "value": "2 TB"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Polygon Amoy"
+    }
+  ]
+}
