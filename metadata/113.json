@@ -1,0 +1,20 @@
+{
+  "name": "AegisDrive Base Key #113",
+  "description": "Chiave NFT di accesso al piano Base di AegisDrive.",
+  "image": "https://ago993.github.io/aegisdrive-nft-static/images/base_1.png",
+  "external_url": "https://aegisdrive.app",
+  "attributes": [
+    {
+      "trait_type": "Piano",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Spazio",
+      "value": "50 GB"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Polygon Amoy"
+    }
+  ]
+}
